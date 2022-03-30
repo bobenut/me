@@ -7,9 +7,12 @@
 * [Docker原理，容器就是特殊的进程](https://github.com/bobenut/me/issues/9)
 * [Docker原理，隔离，Namespace](https://github.com/bobenut/me/issues/11)
 * [Docker原理，资源限制，CGroups](https://github.com/bobenut/me/issues/12)
+* [Docker原理，容器镜像，DeviceMapper](https://github.com/bobenut/me/issues/36)
+* [Docker原理，Network](https://github.com/bobenut/me/issues/37)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
+* [Istio入个门](https://github.com/bobenut/me/issues/38)
 
 ## 系统
 * [Linux基本路由表解析](https://github.com/bobenut/me/issues/10)
@@ -43,6 +46,8 @@
 * [梁宁的《增长思维》学习笔记，共生](https://github.com/bobenut/me/issues/32)
 * [梁宁的《增长思维》学习笔记，结盟](https://github.com/bobenut/me/issues/33)
 * [梁宁的《增长思维》学习笔记，踩中风口闪电式扩张](https://github.com/bobenut/me/issues/34)
+* [梁宁的《增长思维》学习笔记，跨越周期](https://github.com/bobenut/me/issues/35)
+
 
 ## 产品设计
 * [产品UI的情感化设计笔记](https://github.com/bobenut/me/issues/6)
