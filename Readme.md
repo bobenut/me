@@ -16,7 +16,7 @@
 * [安装k8s实践一（在线镜像安装、root账号）](https://github.com/bobenut/me/issues/45)
 * [安装k8s实践二（离线镜像安装、非root账号）](https://github.com/bobenut/me/issues/46)
 * [安装Traefik Ingress Controller](https://github.com/bobenut/me/issues/47)
-* 
+* [在kubernetes中部署metallb](https://github.com/bobenut/me/issues/51)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
@@ -68,7 +68,6 @@
 * [演讲学习笔记，明确演讲的目标](https://github.com/bobenut/me/issues/48)
 * [演讲学习笔记，演讲的结构](https://github.com/bobenut/me/issues/49)
 * [解决问题学习笔记，解决问题的逻辑框架](https://github.com/bobenut/me/issues/50)
-* [在kubernetes中部署metallb](https://github.com/bobenut/me/issues/51)
 * [洞察力学习思考，一切都是系统](https://github.com/bobenut/me/issues/52)
 * [洞察力学习思考，系统的完整结构](https://github.com/bobenut/me/issues/53)
 * [洞察力学习思考，变量方面有哪些关注点](https://github.com/bobenut/me/issues/54)
