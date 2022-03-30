@@ -1,5 +1,5 @@
 # 研发
-## 协议
+## IoT
 * [MQTT协议3.1.1笔记](https://github.com/bobenut/me/issues/4)
 * [MQTT协议QoS质量等级](https://github.com/bobenut/me/issues/5)
 * [为什么是MQTT，梳理一下](https://github.com/bobenut/me/issues/7)
@@ -9,6 +9,11 @@
 * [Docker原理，资源限制，CGroups](https://github.com/bobenut/me/issues/12)
 * [Docker原理，容器镜像，DeviceMapper](https://github.com/bobenut/me/issues/36)
 * [Docker原理，Network](https://github.com/bobenut/me/issues/37)
+* [在本地，使用minikube，完成hello1内部调用hello2](https://github.com/bobenut/me/issues/39)
+* [k8s 最小调度单位是Pod而不是容器](https://github.com/bobenut/me/issues/41)
+* [k8s pod阶段和容器状态](https://github.com/bobenut/me/issues/42)
+* [k8s projected volumn](https://github.com/bobenut/me/issues/43)
+* 
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
@@ -51,5 +56,6 @@
 
 ## 产品设计
 * [产品UI的情感化设计笔记](https://github.com/bobenut/me/issues/6)
+* [用户故事地图](https://github.com/bobenut/me/issues/40)
 
 # 技能
