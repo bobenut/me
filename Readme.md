@@ -23,6 +23,12 @@
 # 产品
 ## 产品思维
 * [产品经理的基本思维模型笔记，需求三角思维模型](https://github.com/bobenut/me/issues/3)
+* [梁宁的《增长思维》学习笔记，增长是能力](https://github.com/bobenut/me/issues/15)
+* [梁宁的《增长思维》学习笔记，在生死进退中增长](https://github.com/bobenut/me/issues/16)
+* [梁宁的《增长思维》学习笔记，作战地图](https://github.com/bobenut/me/issues/17)
+* [梁宁的《增长思维》学习笔记，用发散与收敛洞察机会](https://github.com/bobenut/me/issues/18)
+* [梁宁的《增长思维》学习笔记，抓住机会](https://github.com/bobenut/me/issues/19)
+* [梁宁的《增长思维》学习笔记，看到大机会](https://github.com/bobenut/me/issues/20)
 
 ## 产品设计
 * [产品UI的情感化设计笔记](https://github.com/bobenut/me/issues/6)
