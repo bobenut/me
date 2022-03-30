@@ -13,6 +13,9 @@
 * [k8s 最小调度单位是Pod而不是容器](https://github.com/bobenut/me/issues/41)
 * [k8s pod阶段和容器状态](https://github.com/bobenut/me/issues/42)
 * [k8s projected volumn](https://github.com/bobenut/me/issues/43)
+* [安装k8s实践一（在线镜像安装、root账号）](https://github.com/bobenut/me/issues/45)
+* [安装k8s实践二（离线镜像安装、非root账号）](https://github.com/bobenut/me/issues/46)
+* [安装Traefik Ingress Controller](https://github.com/bobenut/me/issues/47)
 * 
 
 ## 架构
@@ -27,6 +30,7 @@
 # 运营
 ## 运维
 * [Google SRE稳定性保障要点参考](https://github.com/bobenut/me/issues/1)
+* [实践一下Grafana Loki ](https://github.com/bobenut/me/issues/55)
 
 # 产品
 ## 产品思维
@@ -59,3 +63,15 @@
 * [用户故事地图](https://github.com/bobenut/me/issues/40)
 
 # 技能
+* [演讲学习笔记，TED演讲方法学习总结](https://github.com/bobenut/me/issues/44)
+* [演讲学习笔记，明确演讲的目标](https://github.com/bobenut/me/issues/48)
+* [演讲学习笔记，演讲的结构](https://github.com/bobenut/me/issues/49)
+* [解决问题学习笔记，解决问题的逻辑框架](https://github.com/bobenut/me/issues/50)
+* [在kubernetes中部署metallb](https://github.com/bobenut/me/issues/51)
+* [洞察力学习思考，一切都是系统](https://github.com/bobenut/me/issues/52)
+* [洞察力学习思考，系统的完整结构](https://github.com/bobenut/me/issues/53)
+* [洞察力学习思考，变量方面有哪些关注点](https://github.com/bobenut/me/issues/54)
+* [洞察力学习思考，反思“我只看结果”](https://github.com/bobenut/me/issues/56)
+* [洞察力学习思考，系统是飞轮，旋转动力靠增强回路](https://github.com/bobenut/me/issues/57)
+* [洞察力学习思考，系统是飞轮，永远存在平衡的调节回路](https://github.com/bobenut/me/issues/58)
+* [SRE实践清单](https://github.com/bobenut/me/issues/59)
