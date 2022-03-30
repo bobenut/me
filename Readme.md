@@ -30,6 +30,7 @@
 # 运营
 ## 运维
 * [Google SRE稳定性保障要点参考](https://github.com/bobenut/me/issues/1)
+* [SRE实践清单](https://github.com/bobenut/me/issues/59)
 * [实践一下Grafana Loki ](https://github.com/bobenut/me/issues/55)
 
 # 产品
@@ -74,4 +75,4 @@
 * [洞察力学习思考，反思“我只看结果”](https://github.com/bobenut/me/issues/56)
 * [洞察力学习思考，系统是飞轮，旋转动力靠增强回路](https://github.com/bobenut/me/issues/57)
 * [洞察力学习思考，系统是飞轮，永远存在平衡的调节回路](https://github.com/bobenut/me/issues/58)
-* [SRE实践清单](https://github.com/bobenut/me/issues/59)
+
