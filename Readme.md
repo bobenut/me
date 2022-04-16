@@ -17,6 +17,7 @@
 * [安装k8s实践二（离线镜像安装、非root账号）](https://github.com/bobenut/me/issues/46)
 * [安装Traefik Ingress Controller](https://github.com/bobenut/me/issues/47)
 * [在kubernetes中部署metallb](https://github.com/bobenut/me/issues/51)
+* [了解一下Containerd](https://github.com/bobenut/me/issues/61)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
