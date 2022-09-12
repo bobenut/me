@@ -33,6 +33,7 @@
 
 ## DevOps
 * [Git学习之本地仓库的结构](https://github.com/bobenut/me/issues/64)
+* [Git学习之Object对象模型](https://github.com/bobenut/me/issues/65)
 
 # 运营
 ## 运维
