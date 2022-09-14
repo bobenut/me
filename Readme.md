@@ -25,6 +25,7 @@
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
 * [Istio入个门](https://github.com/bobenut/me/issues/38)
 * [软件生命周期中的常用版本](https://github.com/bobenut/me/issues/60)
+* [DV、OV、EV证书](https://github.com/bobenut/me/issues/67)
 
 ## 系统
 * [Linux基本路由表解析](https://github.com/bobenut/me/issues/10)
