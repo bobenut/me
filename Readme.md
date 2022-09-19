@@ -19,7 +19,7 @@
 * [在kubernetes中部署metallb](https://github.com/bobenut/me/issues/51)
 * [了解一下Containerd](https://github.com/bobenut/me/issues/61)
 * [搭一个高可用的k3s集群](https://github.com/bobenut/me/issues/62)
-* [给k3s套个马甲Rancher（Rancher HA + 自签证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/63)
+* [给k3s套个马甲Rancher Part1（Rancher HA + 自签证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/63)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
