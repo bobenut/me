@@ -28,6 +28,7 @@
 * [Istio入个门](https://github.com/bobenut/me/issues/38)
 * [软件生命周期中的常用版本](https://github.com/bobenut/me/issues/60)
 * [DV、OV、EV证书](https://github.com/bobenut/me/issues/67)
+* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
 
 ## 系统
 * [Linux基本路由表解析](https://github.com/bobenut/me/issues/10)
