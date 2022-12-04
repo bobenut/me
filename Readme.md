@@ -22,13 +22,14 @@
 * [搭一个高可用的k3s集群](https://github.com/bobenut/me/issues/62)
 * [给k3s套个马甲Rancher Part1（Rancher HA + 自签证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/63)
 * [给k3s套个马甲Rancher Part2（Rancher HA + 权威证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/68)
+* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
 * [Istio入个门](https://github.com/bobenut/me/issues/38)
 * [软件生命周期中的常用版本](https://github.com/bobenut/me/issues/60)
 * [DV、OV、EV证书](https://github.com/bobenut/me/issues/67)
-* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
+* [踩坑，Ingress的Host必须要填对了](https://github.com/bobenut/me/issues/71)
 
 ## 系统
 * [Linux基本路由表解析](https://github.com/bobenut/me/issues/10)
