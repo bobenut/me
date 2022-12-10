@@ -23,6 +23,8 @@
 * [给k3s套个马甲Rancher Part1（Rancher HA + 自签证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/63)
 * [给k3s套个马甲Rancher Part2（Rancher HA + 权威证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/68)
 * [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
+* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
+* [安装apisix-ingress-controller](https://github.com/bobenut/me/issues/72)
 
 ## 架构
 * [DDD学习总结笔记](https://github.com/bobenut/me/issues/8)
