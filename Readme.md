@@ -22,8 +22,8 @@
 * [搭一个高可用的k3s集群](https://github.com/bobenut/me/issues/62)
 * [给k3s套个马甲Rancher Part1（Rancher HA + 自签证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/63)
 * [给k3s套个马甲Rancher Part2（Rancher HA + 权威证书 + Nodeport + nginx负载L7）](https://github.com/bobenut/me/issues/68)
-* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
-* [安装kong-gateway作为ingress controller](https://github.com/bobenut/me/issues/70)
+* [安装kong-gateway作为ingress controller（OSS版本，DBLess）](https://github.com/bobenut/me/issues/70)
+* [安装kong-gateway作为ingress controller（Enterprise版本，DBLess，FreeMode）](https://github.com/bobenut/me/issues/75)
 * [安装apisix-ingress-controller](https://github.com/bobenut/me/issues/72)
 
 ## 架构
