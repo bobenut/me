@@ -32,6 +32,9 @@
 * [软件生命周期中的常用版本](https://github.com/bobenut/me/issues/60)
 * [DV、OV、EV证书](https://github.com/bobenut/me/issues/67)
 * [踩坑，Ingress的Host必须要填对了](https://github.com/bobenut/me/issues/71)
+* [Kong Ingress Controller实践Part1，编排路由](https://github.com/bobenut/me/issues/76)
+* [Kong Ingress Controller实践Part2，为路由附加插件](https://github.com/bobenut/me/issues/77)
+* [Kong Ingress Controller实践Part3，为K8S Service附加插件](https://github.com/bobenut/me/issues/78)
 * [APISIX实践，通过ApisixRoute路由到服务](https://github.com/bobenut/me/issues/73)
 * [APISIX实践，使用limit-req限制每秒接口访问量](https://github.com/bobenut/me/issues/74)
 
