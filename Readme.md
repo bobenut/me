@@ -37,6 +37,7 @@
 * [Kong Ingress Controller实践Part3，为K8S Service附加插件](https://github.com/bobenut/me/issues/78)
 * [APISIX实践，通过ApisixRoute路由到服务](https://github.com/bobenut/me/issues/73)
 * [APISIX实践，使用limit-req限制每秒接口访问量](https://github.com/bobenut/me/issues/74)
+* [APISIX学习，APISIX Ingress Controller是如何工作的](https://github.com/bobenut/me/issues/79)
 
 ## 系统
 * [Linux基本路由表解析](https://github.com/bobenut/me/issues/10)
