@@ -49,6 +49,7 @@
 * [Git学习之Object对象模型](https://github.com/bobenut/me/issues/65)
 * [Git学习之对仓库进行文件CRUD，观察Object间关系的变化](https://github.com/bobenut/me/issues/66)
 * [CI/CD填坑，Gitlab Runner采用Powershell时GIt显示乱码问题](https://github.com/bobenut/me/issues/81)
+* [CI/CD实践，为Gitlab中某个Project注册Powershell Runner](https://github.com/bobenut/me/issues/82)
 
 # 运营
 ## 运维
