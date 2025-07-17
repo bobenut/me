@@ -1,6 +1,7 @@
 # 研发
 ## AI Agent
 * [AI Agent 知识结构](https://github.com/bobenut/me/issues/84)
+* [AI Agent基础概念](https://github.com/bobenut/me/issues/85)
 
 ## IoT
 * [MQTT协议3.1.1笔记](https://github.com/bobenut/me/issues/4)
